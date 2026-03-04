@@ -27,4 +27,3 @@ Das Dashboard ermöglicht Stakeholdern, die Daten nach Standort (`Store_Location
 
 ## Dashboard Screenshot
 ![Maven Toys Dashboard](Screenshot.png) 
-*(Hinweis: Der Dateiname hier muss genau so heißen wie das Bild, das du auf GitHub hochlädst!)*
